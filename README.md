@@ -38,7 +38,8 @@ The project also examines the impact of macroeconomic factors and political even
   - **`Train set results.png`** Summaries of model performance on test set with different metrics.
 ### 5. requirements.txt
 -  Lists all the packages and dependencies required to run the project.
-
+### 6. Report folder
+### 7. Slide folder
 ## Instructions
 
 1. **Data Analysis and Feature Selection:**
